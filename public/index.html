@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trang chủ</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <span class="logo-mark" aria-hidden="true"><span>4</span></span>
+        <span class="logo-text" id="site-name">Website</span>
+      </a>
+      <nav>
+        <a href="#members">Thành viên</a>
+        <a href="#exercises">Bài tập</a>
+        <a href="#contact">Liên hệ</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1 id="hero-title">Website nhóm</h1>
+      <p id="hero-tagline">Giới thiệu thành viên và bài tập nhóm</p>
+      <div class="hero-buttons">
+        <a href="#members" class="btn btn-primary">Xem thành viên</a>
+        <a href="#exercises" class="btn btn-outline">Xem bài tập</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="members" class="section">
+    <div class="container">
+      <h2 class="section-title">Thành viên nhóm</h2>
+      <p class="section-subtitle">Nhấn vào thẻ để xem thông tin chi tiết</p>
+      <div class="grid member-grid" id="members-grid"></div>
+    </div>
+  </section>
+
+  <section id="exercises" class="section section-alt">
+    <div class="container">
+      <h2 class="section-title">Bài tập nhóm</h2>
+      <p class="section-subtitle">Số lượng bài tập tự động cập nhật theo file Word</p>
+      <div class="grid exercise-grid" id="exercises-grid"></div>
+    </div>
+  </section>
+
+  <footer id="contact" class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <h3 id="footer-name">Website nhóm</h3>
+        <p id="footer-tagline"></p>
+      </div>
+      <div>
+        <h4>Liên hệ</h4>
+        <p id="footer-email"></p>
+        <p id="footer-phone"></p>
+        <p id="footer-address"></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="data/sample-data.js"></script>
+  <script src="js/main.js"></script>
+  <script>initIndex();</script>
+</body>
+</html>

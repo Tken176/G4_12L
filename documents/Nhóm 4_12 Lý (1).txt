@@ -1,0 +1,514 @@
+﻿LUYỆN TẬP
+Câu 1. Muốn kết nối các máy tính trong phạm vi gia đình thành một mạng, nên dùng loại thiết bị kết nối nào?
+Trả lời:
+Nên sử dụng router Wi-Fi (bộ định tuyến không dây) để kết nối các máy tính trong gia đình thành một mạng. Router Wi-Fi cho phép các thiết bị kết nối với nhau thông qua mạng không dây hoặc cáp mạng.
+Câu 2. Máy tính xách tay thường có khả năng kết nối Wi-Fi nhưng không có SIM để kết nối với Internet. Làm thế nào để kết nối máy tính xách tay với Internet qua mạng điện thoại di động?
+Trả lời:
+Có thể sử dụng điện thoại di động có kết nối Internet để phát Wi-Fi cho máy tính xách tay. Ngoài ra, có thể kết nối điện thoại với máy tính bằng cáp USB và bật tính năng chia sẻ kết nối Internet qua USB.
+VẬN DỤNG
+Câu 1. Tìm hiểu mạng máy tính của trường và vẽ sơ đồ mạng.
+Trả lời:
+Mạng máy tính của trường học có thể sử dụng các thiết bị sau:
+* Hub: Kết nối nhiều máy tính trong mạng LAN và truyền dữ liệu đến tất cả các cổng.
+* Switch: Kết nối các máy tính và thiết bị mạng có dây, giúp truyền dữ liệu đến đúng thiết bị đích.
+* WAP (Wireless Access Point): Cung cấp kết nối Wi-Fi cho máy tính, điện thoại và các thiết bị không dây.
+* Router: Kết nối mạng nội bộ của trường với Internet và định tuyến dữ liệu.
+Sơ đồ mạng tham khảo:
+
+
+Câu 2. Trên các xe khách đường dài ngày nay, hành khách có thể truy cập Internet qua Wi-Fi được hay không? Hãy tìm hiểu xem điều này được thực hiện như thế nào.
+Trả lời:
+Có. Nhiều xe khách đường dài hiện nay cung cấp Wi-Fi cho hành khách truy cập Internet.
+Cách thực hiện:
+1. Trên xe lắp đặt một bộ định tuyến Wi-Fi có khả năng kết nối mạng di động 4G hoặc 5G thông qua SIM.
+2. Thiết bị nhận tín hiệu Internet từ mạng di động và phát Wi-Fi trên xe.
+3. Hành khách kết nối điện thoại hoặc máy tính xách tay với Wi-Fi của xe để truy cập Internet.
+Lưu ý: Chất lượng kết nối phụ thuộc vào vùng phủ sóng di động, số lượng người sử dụng và thiết bị được lắp đặt trên xe.
+
+
+
+
+LUYỆN TẬP
+Câu 1. Nêu các quy tắc khi gọi điện thoại bằng máy để bàn để làm rõ giao thức gọi điện thoại.
+Trả lời:
+Các quy tắc khi gọi điện thoại bằng máy để bàn:
+1. Nhấc ống nghe: Hệ thống phát tín hiệu mời quay số.
+2. Quay số: Người gọi nhập số điện thoại của người nhận.
+3. Chờ kết nối: Hệ thống kiểm tra số điện thoại và kết nối cuộc gọi.
+4. Phát tín hiệu:
+   * Nếu người nhận chưa nhấc máy, điện thoại người nhận reo chuông, người gọi nghe nhạc chờ hoặc tín hiệu chờ.
+   * Nếu số điện thoại bận, hệ thống phát tín hiệu báo bận.
+   * Nếu số điện thoại không hợp lệ hoặc có lỗi, hệ thống phát tín hiệu báo lỗi.
+5. Nói chuyện: Khi người nhận nhấc máy, hai bên có thể trao đổi thông tin.
+6. Kết thúc cuộc gọi: Một trong hai bên đặt ống nghe xuống để kết thúc cuộc gọi.
+Những quy tắc trên giúp hai bên thực hiện cuộc gọi theo một trình tự thống nhất, tương tự như cách các thiết bị mạng tuân theo giao thức truyền thông.
+Câu 2. Xác định địa chỉ IP tương ứng ở dạng thập phân và nhị phân.
+a) Chuyển địa chỉ IP nhị phân sang thập phân
+Địa chỉ IP nhị phân:
+11000000 10101000 00001101 11010010
+Mỗi nhóm 8 bit được chuyển sang một số thập phân:
+* 11000000 = 192
+* 10101000 = 168
+* 00001101 = 13
+* 11010010 = 210
+Kết quả:
+Địa chỉ IP thập phân là 192.168.13.210.
+b) Chuyển địa chỉ IP thập phân sang nhị phân
+Địa chỉ IP thập phân:
+131.214.23.16
+Chuyển từng số sang dạng nhị phân 8 bit:
+* 131 = 10000011
+* 214 = 11010110
+* 23 = 00010111
+* 16 = 00010000
+Kết quả:
+Địa chỉ IP nhị phân là:
+10000011 11010110 00010111 00010000
+
+
+VẬN DỤNG
+Câu 1. Tìm hiểu giao thức tên miền DNS.
+Trả lời:
+a) Lợi ích của việc dùng tên miền thay thế cho địa chỉ IP
+* Tên miền dễ nhớ và dễ sử dụng hơn địa chỉ IP.
+* Giúp người dùng truy cập website thuận tiện mà không cần ghi nhớ các dãy số IP.
+* DNS giúp chuyển đổi tên miền thành địa chỉ IP tương ứng để các thiết bị có thể tìm đến máy chủ cần truy cập.
+Ví dụ: Người dùng có thể nhập google.com thay vì phải nhớ địa chỉ IP của máy chủ Google.
+b) Các lớp tên miền
+Tên miền được chia thành nhiều nhóm, trong đó có các nhóm phổ biến:
+* Tên miền cấp cao nhất dùng chung (gTLD): Ví dụ .com, .org, .net, .edu.
+* Tên miền cấp cao nhất theo mã quốc gia (ccTLD): Ví dụ .vn của Việt Nam, .jp của Nhật Bản, .uk của Vương quốc Anh.
+* Tên miền cấp dưới: Các phần tên miền nằm bên trái tên miền cấp cao hơn, chẳng hạn edu.vn hoặc example.com.
+c) Tổ chức nào phụ trách việc cấp tên miền ở Việt Nam?
+Tại Việt Nam, Trung tâm Internet Việt Nam (VNNIC) thuộc Bộ Khoa học và Công nghệ là đơn vị quản lý tài nguyên Internet quốc gia, trong đó có tên miền quốc gia .vn.
+Người dùng có thể đăng ký tên miền .vn thông qua các nhà đăng ký tên miền .vn được công nhận.
+Câu 2. Tìm hiểu lệnh ping và thử nghiệm sử dụng lệnh này.
+Trả lời:
+a) Lệnh ping là gì?
+ping là lệnh mạng dùng để kiểm tra khả năng liên lạc giữa máy tính của em với một máy tính hoặc thiết bị mạng khác thông qua mạng IP.
+Lệnh này thường gửi các gói tin yêu cầu phản hồi ICMP Echo Request và chờ nhận ICMP Echo Reply.
+b) Cách sử dụng lệnh ping
+Trên Linux:
+Mở Terminal và nhập:
+ping -c 4 google.com
+Lệnh trên gửi 4 gói tin đến máy chủ tương ứng rồi kết thúc.
+c) Cách đọc kết quả
+Nếu kết nối thành công, kết quả có dạng:
+❯ ping -c 4 google.com
+PING google.com (2404:6800:4003:c11::65) 56 data bytes
+64 bytes from se-in-f101.1e100.net (2404:6800:4003:c11::65): icmp_seq=1 ttl=109 time=35.1 ms
+64 bytes from se-in-f101.1e100.net (2404:6800:4003:c11::65): icmp_seq=2 ttl=109 time=61.6 ms
+64 bytes from se-in-f101.1e100.net (2404:6800:4003:c11::65): icmp_seq=3 ttl=109 time=35.3 ms
+64 bytes from se-in-f101.1e100.net (2404:6800:4003:c11::65): icmp_seq=4 ttl=109 time=34.8 ms
+
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3003ms
+rtt min/avg/max/mdev = 34.829/41.716/61.601/11.481 ms
+
+
+~
+❯ 
+
+
+  
+
+Điều này cho biết máy tính nhận được phản hồi. Giá trị time thể hiện thời gian khứ hồi của gói tin.
+Nếu xuất hiện thông báo hết thời gian chờ hoặc không thể tìm thấy tên máy chủ, có thể kết nối mạng gặp vấn đề, máy chủ không phản hồi hoặc DNS không phân giải được tên miền.
+
+
+
+
+
+
+LUYỆN TẬP
+Câu 1. Thực hành chia sẻ tệp và thư mục
+Trả lời:
+Thực hiện lần lượt các bước sau trên hai máy tính A và B trong cùng một mạng LAN.
+a) Chia sẻ với quyền Read (chỉ đọc)
+* Máy A: Tạo một thư mục chứa các thư mục con và tệp văn bản. Nhấn chuột phải vào thư mục, chọn Properties → Sharing → Advanced Sharing, tích chọn Share this folder và thiết lập quyền chỉ đọc (Read).
+* Máy B: Truy cập thư mục chia sẻ của máy A qua mạng LAN.
+Kết quả: Máy B có thể mở và đọc tệp nhưng không thể sửa hoặc xóa tệp trong thư mục chia sẻ bằng quyền này.
+b) Chia sẻ với quyền Read/Write (đọc và ghi)
+* Máy A: Mở phần thiết lập chia sẻ và cấp thêm quyền Change cho người dùng được phép truy cập.
+* Máy B: Mở lại thư mục chia sẻ, thử đọc và chỉnh sửa tệp văn bản.
+Kết quả: Máy B có thể đọc, sửa và tạo tệp trong phạm vi quyền được cấp.
+c) Hủy chia sẻ
+* Máy A: Mở Properties → Sharing → Advanced Sharing, bỏ chọn Share this folder rồi nhấn OK.
+* Máy B: Thử truy cập lại thư mục đã chia sẻ.
+Kết quả: Máy B không còn truy cập được thư mục thông qua kết nối chia sẻ đó.
+d) Đảo vai trò
+Máy B thực hiện lần lượt các bước chia sẻ với quyền Read, Read/Write và hủy chia sẻ. Máy A kiểm tra kết quả tương tự.
+Lưu ý: Quyền truy cập thực tế còn phụ thuộc vào quyền chia sẻ và quyền bảo mật của thư mục (Security permissions).
+Câu 2. Thực hành chia sẻ máy in
+Trả lời:
+Thực hiện theo các bước sau:
+Nhóm 1 chia sẻ máy in cho nhóm 2:
+1. Kết nối máy in với máy tính của nhóm 1 và cài đặt trình điều khiển máy in.
+2. Trên máy tính nhóm 1, mở phần quản lý máy in, chọn máy in cần chia sẻ.
+3. Mở Printer properties → Sharing, tích chọn Share this printer và đặt tên chia sẻ.
+4. Trên máy tính nhóm 2, thêm máy in mạng bằng cách tìm máy in được chia sẻ hoặc nhập đường dẫn mạng của máy tính nhóm 1.
+5. Thử in một tài liệu để kiểm tra.
+Đổi lại vai trò: Nhóm 2 chia sẻ máy in, nhóm 1 kết nối và thực hiện in thử tương tự.
+Kết quả: Các máy tính trong mạng có thể sử dụng chung máy in mà không cần kết nối trực tiếp với máy in trên từng máy.
+
+
+VẬN DỤNG
+Câu 1. Tìm hiểu và thực hiện việc chia sẻ toàn bộ một đĩa
+Trả lời:
+Có thể chia sẻ toàn bộ một ổ đĩa trong Windows để các máy tính khác truy cập các tệp và thư mục bên trong ổ đĩa đó.
+Các bước thực hiện
+Bước 1: Mở File Explorer, nhấn chuột phải vào ổ đĩa muốn chia sẻ, chọn Properties.
+Bước 2: Chọn thẻ Sharing, nhấn Advanced Sharing.
+Bước 3: Tích chọn Share this folder, sau đó đặt tên chia sẻ cho ổ đĩa.
+Bước 4: Nhấn Permissions để thiết lập quyền truy cập:
+* Read: Chỉ đọc dữ liệu.
+* Change: Đọc, tạo, sửa và xóa dữ liệu trong phạm vi quyền được cấp.
+* Full Control: Có toàn quyền theo các quyền được thiết lập.
+Nên chỉ cấp quyền cần thiết cho người dùng được phép truy cập.
+Bước 5: Nhấn Apply → OK để lưu thiết lập.
+Cách truy cập từ máy tính khác
+Trên máy tính cùng mạng LAN, mở File Explorer và nhập vào thanh địa chỉ:
+\\Tên-máy-tính\Tên-chia-sẻ
+Ví dụ, nếu máy tính có tên PC01 và tên chia sẻ là Data, nhập:
+\\PC01\Data
+Nếu hệ thống yêu cầu, người dùng cần xác thực bằng tài khoản được phép truy cập.
+Kết luận
+Chia sẻ toàn bộ ổ đĩa cho phép máy tính khác truy cập nhiều tệp và thư mục trong ổ đĩa đó. Vì vậy, cần thiết lập quyền phù hợp để bảo vệ dữ liệu, tránh chia sẻ thông tin riêng tư hoặc dữ liệu quan trọng ngoài ý muốn.
+
+
+
+
+LUYỆN TẬP
+Câu 1. Hãy kể về một trải nghiệm giao tiếp trong không gian mạng mà em từng tham gia.
+Trả lời:
+Em từng tham gia giao tiếp với các bạn trong nhóm lớp thông qua Messenger. Chúng em trao đổi bài tập, chia sẻ tài liệu và giải đáp những câu hỏi khó. Nhờ đó, mọi người có thể trao đổi thông tin nhanh chóng mà không cần gặp mặt trực tiếp. Em cũng học được cách giao tiếp lịch sự, tôn trọng ý kiến của người khác khi sử dụng Internet.
+Câu 2. Nêu một vài ví dụ minh họa cho việc vận dụng các lợi ích của giao tiếp trong không gian mạng để tạo sự tiện lợi cho công việc hoặc cuộc sống.
+Trả lời:
+Một số ví dụ về lợi ích của giao tiếp trong không gian mạng:
+* Trong học tập: Học sinh sử dụng nhóm chat để trao đổi bài tập, chia sẻ tài liệu và thông báo lịch kiểm tra.
+* Trong công việc: Nhân viên sử dụng email để gửi tài liệu, trao đổi công việc và nhận thông báo từ đồng nghiệp.
+* Trong cuộc sống: Mọi người sử dụng cuộc gọi video để trò chuyện với người thân ở xa.
+* Trong mua sắm: Người mua có thể nhắn tin cho người bán để hỏi thông tin sản phẩm và đặt hàng trực tuyến.
+* Trong học trực tuyến: Giáo viên và học sinh sử dụng các nền tảng trực tuyến để dạy và học từ xa.
+Nhờ giao tiếp trong không gian mạng, mọi người có thể trao đổi thông tin nhanh chóng, tiết kiệm thời gian và chi phí đi lại.
+
+
+VẬN DỤNG
+Câu 1. Viết thư điện tử gửi cho bạn để trao đổi về một tình huống giả định.
+Tình huống: Em bị ốm, phải nghỉ học và muốn mượn vở của bạn để chép bài.
+Chào Quốc Hưng!
+Hôm nay mình bị ốm nên không thể đến lớp. Bạn có thể cho mình mượn vở để chép lại bài học hôm nay được không?
+Nếu được, bạn chụp ảnh những trang vở đã ghi bài rồi gửi cho mình qua email hoặc Messenger nhé. Mình sẽ cố gắng chép bài đầy đủ để không bị thiếu kiến thức.
+Cảm ơn bạn nhiều! Chúc bạn học tập tốt.
+Thân mến,
+Hoà
+
+
+
+
+
+
+LUYỆN TẬP
+Câu 1. Tìm ví dụ về phần tử HTML không thể lồng nhau, tức là không thể có quan hệ cha – con trong cây thông tin của trang web.
+Trả lời:
+Một số phần tử HTML không thể chứa một số phần tử khác theo quy tắc HTML:
+* Thẻ <p> không được chứa thẻ <p> khác.
+* Thẻ <h1> không nên chứa các phần tử tiêu đề khác như <h2>.
+* Thẻ <ul> chỉ nên chứa trực tiếp các phần tử <li> và một số phần tử hỗ trợ như <script> hoặc <template>, không chứa trực tiếp thẻ <p>.
+Ví dụ không hợp lệ:
+<p>Đoạn văn thứ nhất
+    <p>Đoạn văn thứ hai</p>
+</p>
+Hai thẻ <p> không thể lồng nhau theo quy tắc HTML. Trình duyệt có thể tự đóng thẻ <p> đầu tiên khi gặp thẻ <p> thứ hai.
+Câu 2. Soạn tệp HTML hiển thị một văn bản đơn giản và vẽ cây thông tin các phần tử HTML.
+Trả lời:
+Ví dụ, chọn văn bản có nội dung: “Xin chào! Chào mừng bạn đến với trang web của em.”
+a) Mã HTML
+Lưu đoạn mã sau vào tệp index.html:
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Trang web của em</title>
+</head>
+<body>
+    <h1>Xin chào!</h1>
+    <p>Chào mừng bạn đến với trang web của em.</p>
+</body>
+</html>
+b) Cây thông tin của trang web
+html
+├── head
+│   ├── meta
+│   └── title
+│       └── "Trang web của em"
+└── body
+    ├── h1
+    │   └── "Xin chào!"
+    └── p
+        └── "Chào mừng bạn đến với trang web của em."
+Cây trên thể hiện quan hệ cha – con giữa các phần tử HTML. Phần tử html là gốc của cây, head và body là các phần tử con trực tiếp của nó.
+VẬN DỤNG
+Câu 1. Tìm trên mạng các trang web hỗ trợ soạn thảo HTML trực tuyến.
+Trả lời:
+Một số trang web hỗ trợ soạn thảo HTML trực tuyến:
+1. W3Schools Tryit Editor: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_default — cho phép viết mã HTML, chạy thử và xem kết quả ngay trên trình duyệt.
+
+W3Schools
+2. CodePen: https://codepen.io/ — hỗ trợ soạn thảo HTML, CSS, JavaScript và xem trước trang web.
+3. JSFiddle: https://jsfiddle.net/ — hỗ trợ viết và chạy thử mã HTML, CSS, JavaScript.
+Các công cụ trên giúp học sinh thực hành lập trình web mà không cần cài đặt phần mềm soạn thảo chuyên dụng.
+Câu 2. Soạn thảo trang web có nội dung như Hình 7.7.
+Trả lời:
+Do đề bài chưa cung cấp Hình 7.7, dưới đây là mẫu HTML minh họa cách chèn hình ảnh vào trang web.
+a) Mã HTML
+
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Lịch sử phát triển HTML</title>
+</head>
+<body>
+    <h3>Lịch sử phát triển HTML</h3>
+
+
+    <p>
+        Các chuẩn HTML của trang web hiện nay được nhà vật lí
+        Tim Berners-Lee đưa ra lần đầu tiên vào những năm 1990
+        của thế kỉ XX tại Trung tâm Vật lí Hạt nhân CERN.
+    </p>
+
+
+    <p>
+        Ý tưởng ban đầu của Berners-Lee là muốn thiết lập một
+        chuẩn chung để thể hiện và chia sẻ các văn bản có thể
+        trao đổi bên trong cơ quan CERN.
+    </p>
+
+
+    <p>
+        Hình ảnh sau là sơ đồ thông tin mà Tim Berners-Lee đưa ra
+        lần đầu tiên để minh họa cho ý tưởng của mình. Trong sơ đồ
+        này, lần đầu tiên xuất hiện cụm từ "hypertext"
+        (siêu văn bản).
+    </p>
+
+
+    <img src="lichsuHTML.png"
+         alt="Sơ đồ lịch sử phát triển HTML"
+         width="600">
+
+
+    <p>
+        Phiên bản đầu tiên của HTML được thiết lập vào cuối năm
+        1991 mang tên "Các thẻ HTML". Văn bản này do chính Tim
+        Berners-Lee biên soạn.
+    </p>
+
+
+    <p>
+        Từ đó, các phiên bản tiếp theo của HTML lần lượt ra đời
+        cùng với sự phát triển của công nghệ Internet.
+    </p>
+
+
+    <p>
+        Phiên bản hiện tại là HTML5 ra đời năm 2014.
+    </p>
+</body>
+</html>
+
+
+LUYỆN TẬP
+Câu 1:
+- Lỗi sai: Thẻ <strong> và thẻ <em> dùng để nhấn mạnh nội dung, còn thẻ <b> dùng để in đậm văn bản. Tuy nhiên, câu đã nhầm lẫn giữa chức năng định dạng và ý nghĩa nhấn mạnh của các thẻ.
+- Viết lại câu đúng: Thẻ <strong> dùng để nhấn mạnh nội dung quan trọng, thẻ <em> dùng để nhấn mạnh nội dung bằng cách in nghiêng, còn thẻ <b> dùng để in đậm văn bản mà không thể hiện ý nghĩa nhấn mạnh đặc biệt.
+
+
+Câu 2: Đoạn văn bản sau khi trình bày bằng HTML:
+HTML
+Wrap linesCopy codePreview
+<h3>INTERNET TỐC ĐỘ CAO</h3>
+<p>Dịch vụ Internet tốc độ cao là dịch vụ Internet cáp quang chất lượng cao, ổn định, giá cả hợp lí.</p>
+<p><strong>Các tính năng nổi bật:</strong></p>
+<ul>
+    <li>Tốc độ siêu cao tới 150 Mbps trở lên</li>
+    <li>Lắp đặt nhanh chóng trong 24 h</li>
+    <li>Phù hợp với cá nhân/Hộ gia đình</li>
+    <li>Tặng Modem 2 băng tần</li>
+    <li>Miễn phí lắp đặt</li>
+    <li>Hỗ trợ 24/7</li>
+</ul>
+
+
+VẬN DỤNG
+Câu 1: Các bước thực hiện để sử dụng một mẫu chữ trong bức ảnh làm mẫu cho tiêu đề mới trên một bài thơ:
+   * Bước 1: Chọn và sao chép mẫu chữ cần sử dụng trong bức ảnh.
+   * Bước 2: Mở phần mềm soạn thảo văn bản và tạo tiêu đề mới.
+   * Bước 3: Sử dụng công cụ định dạng chữ nghệ thuật (WordArt) hoặc công cụ phù hợp để tạo kiểu chữ giống mẫu.
+   * Bước 4: Điều chỉnh phông chữ, kích thước, màu sắc và vị trí sao cho phù hợp với mẫu.
+   * Bước 5: Kiểm tra và hoàn thiện tiêu đề.
+Câu 2: Để tạo được kết quả như hình minh họa, có thể sử dụng thẻ <sup> trong HTML để đưa các chữ số lên vị trí chỉ số trên.
+Ví dụ:
+HTML
+Wrap linesCopy codePreview
+<p>O<sup>0</sup>O<sup>0</sup>O<sup>0</sup>O<sup>0</sup>O<sup>0</sup>O<sup>0</sup></p>
+
+
+Thẻ <sup> giúp hiển thị kí tự ở vị trí cao hơn dòng văn bản bình thường, tạo hiệu ứng giống hình minh họa.
+
+
+LUYỆN TẬP
+
+
+Câu 1:
+<table style="border-collapse: collapse;">
+  <tr>
+    <th rowspan="2" style="border: 2px solid blue;">Họ tên</th>
+    <th rowspan="3" style="border: 2px solid blue;">Điểm thi</th>
+  </tr>
+  <tr>
+    <td style="border: 2px solid red;">Toán</td>
+    <td style="border: 2px solid yellow;">Vật lí</td>
+    <td style="border: 2px solid green;">Hóa học</td>
+  </tr>
+</table>
+VẬN DỤNG
+
+
+def generate_html_table(data):
+    html_content = "<table style=\"border-collapse: collapse;\">"
+    # Thêm tiêu đề cho bảng
+    html_content += "<tr>"
+    html_content += "<th style=\"border: 2px solid blue;\">Họ tên</th>"
+    html_content += "<th style=\"border: 2px solid blue;\">Điểm Toán</th>"
+    html_content += "<th style=\"border: 2px solid blue;\">Điểm Vật lí</th>"
+    html_content += "<th style=\"border: 2px solid blue;\">Điểm Hóa học</th>”
+    html_content += "</tr>"
+  
+  # Thêm dữ liệu từ list data vào bảng
+    for row in data:
+        html_content += "<tr>"
+        for value in row:
+            html_content += f"<td style=\"border: 2px solid black;\">{value}</td>"
+        html_content += "</tr>"
+    html_content += "</table>"
+    return html_content
+
+
+# Dữ liệu ban đầu
+initial_data = [
+    ["Họ tên", "Điểm Toán", "Điểm Vật lí", "Điểm Hóa học"],
+    ["Nguyễn Văn A", "8.5", "7.0", "9.0"],
+    ["Trần Thị B", "7.0", "8.0", "8.5"]
+]
+
+
+# Dữ liệu mới cần bổ sung
+new_data = [
+    ["Lê Quang C", "6.5", "7.5", "8.0"],
+    ["Phạm Thị D", "9.0", "8.5", "7.5"]
+]
+# Kết hợp dữ liệu cũ và mới
+combined_data = initial_data + new_data
+
+
+# Tạo nội dung HTML cho bảng dữ liệu
+
+
+html_content = generate_html_table(combined_data)
+
+
+# Lưu nội dung HTML vào tệp
+
+
+with open("data_table.html", "w") as file:
+
+
+    file.write(html_content)
+
+
+print("Tạo tệp HTML thành công!")
+
+
+LUYỆN TẬP
+
+
+Bài 1: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>Thông tin</title>
+</head>
+<body>
+        <!-- Nội dung của trang thông tin -->
+        <h1>Thông tin CLB</h1>
+        <p>Đây là trang thông tin về CLB của chúng ta.</p>
+        <!-- Liên kết quay về trang chủ -->
+        <a href="CLB.html">Quay về trang chủ</a>
+</body>
+</html>
+Câu 2:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <title>Giới thiệu bản thân</title>
+</head>
+<body>
+        <h1>Giới thiệu bản thân</h1>
+        <p>Xin chào! Tôi là [Tên của bạn], đây là một trang web giới thiệu về bản thân tôi.</p>
+        <h2>Bạn cùng lớp</h2>
+        <ul>
+            <li><ahref="https://www.facebook.com/friend1" target="_blank">Facebook của Bạn 1</a></li>
+            <li><ahref="https://www.facebook.com/friend2" target="_blank">Facebook của Bạn 2</a></li>
+            <li><ahref="https://www.facebook.com/friend3" target="_blank">Facebook của Bạn 3</a></li>
+        </ul>
+        <p>Cảm ơn bạn đã ghé thăm!</p>
+</body>
+</html>
+VẬN DỤNG
+Câu 1:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lịch hoạt động công tác CLB thể thao</title>
+</head>
+<body>
+        <h1>Lịch hoạt động công tác CLB thể thao</h1>
+        <table>
+            <tr>
+                <th>Tên câu lạc bộ</th>
+                <th>Lịch hoạt động</th>
+            </tr>
+            <tr>
+                <td><a href="#club1">Câu lạc bộ A</a></td>
+                <td>Thứ Hai, Thứ Tư, Thứ Sáu - 18:00 đến 20:00</td>
+            </tr>
+            <tr>
+                <td><a href="#club2">Câu lạc bộ B</a></td>
+                <td>Thứ Ba, Thứ Năm - 16:00 đến 18:00</td>
+            </tr>
+            <!--Thêm hàng cho các câu lạc bộ khác nếu cần-->
+        </table>
+        <h2 id="club1">Câu lạc bộ A</h2>
+        <p>Địa điểm: Sân Bóng XYZ</p>
+        <p>Thành viên: 50</p>
+        <p>Thành tích: Đạt giải nhất giải đấu Thể thao X năm 20XX</p>
+        <p>Phí hội viên: 100.000 đồng/tháng</p>
+        <p>Điện thoại liên hệ: 0123 456 789</p>
+        <h2 id="club2">Câu lạc bộ B</h2>
+        <p>Địa điểm: Bể Bơi ABC</p>
+        <p>Thành viên: 30</p>
+        <p>Thành tích: Huy chương vàng môn bơi lội tại Hội thao Y năm 20XX</p>
+        <p>Phí hội viên: 150.000 đồng/tháng</p>
+        <p>Điện thoại liên hệ: 0987 654 321</p>
+        <!--Thêm phần giới thiệu cho các câu lạc bộ khác nếu cần-->
+</body>
+</html>

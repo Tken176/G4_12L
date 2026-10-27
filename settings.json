@@ -1,0 +1,84 @@
+{
+  "site": {
+    "name": "Nhóm 4 - TKHDQ",
+    "tagline": "Website giới thiệu thành viên và tổng hợp bài tập của nhóm",
+    "logo": "images/logo.svg",
+    "email": "dinhminhtoan17062009@gmail.com",
+    "phone": "0399124922",
+    "address": "THPT chuyên Bến Tre, Vĩnh Long"
+  },
+  "members": [
+    {
+      "id": "dinhminhtoan",
+      "name": "Đinh Minh Toàn",
+      "role": "Nhóm trưởng",
+      "photo": "images/members/nguyenvana.jpg",
+      "birthday": "17/06/2009",
+      "studentId": "không",
+      "class": "12 Lý",
+      "email": "dinhminhtoan17062009@gmail.com",
+      "phone": "0399124922",
+      "skills": ["Lập trình web", "Quản lý dự án", "Thuyết trình"],
+      "intro": "Xin chào! Mình là Toàn, nhóm trưởng nhóm 4. Mình yêu thích phát triển web và luôn cố gắng hoàn thành tốt các bài tập của nhóm."
+    },
+    {
+      "id": "nguyenthienanhkhoa",
+      "name": "Nguyễn Thiện Anh Khoa",
+      "role": "Thành viên",
+      "photo": "images/members/tranthib.jpg",
+      "birthday": "chưa có",
+      "studentId": "không",
+      "class": "12 Lý",
+      "email": "chưa có",
+      "phone": "chưa có",
+      "skills": ["trống"],
+      "intro": "chưa có"
+    },
+    {
+      "id": "trankhanghuy",
+      "name": "Trần Khang Huy",
+      "role": "Thành viên",
+      "photo": "images/members/levanc.jpg",
+      "birthday": "chưa có",
+      "studentId": "không",
+      "class": "12 Lý",
+      "email": "chưa có",
+      "phone": "chưa có",
+      "skills": ["trống"],
+      "intro": "chưa có"
+    },
+    {
+      "id": "trandaiphat",
+      "name": "Trần Đại Phát",
+      "role": "Thành viên",
+      "photo": "images/members/phamthid.jpg",
+      "birthday": "chưa có",
+      "studentId": "không",
+      "class": "12 Lý",
+      "email": "chưa có",
+      "phone": "chưa có",
+      "skills": ["trống"],
+      "intro": "chưa có"
+    },
+    {
+      "id": "tranminhquan",
+      "name": "Trần Minh Quân",
+      "role": "Thành viên",
+      "photo": "images/members/hoangvane.jpg",
+      "birthday": "chưa có",
+      "studentId": "không",
+      "class": "12 Lý",
+      "email": "chưa có",
+      "phone": "chưa có",
+      "skills": ["trống"],
+      "intro": "chưa có"
+    }
+  ],
+  "exerciseNames": {
+    "New Microsoft Word Document.docx": "Bài tập 1 - File Word hiện có",
+    "baitap1.docx": "Bài tập 1 - Giới thiệu bản thân",
+    "baitap2.docx": "Bài tập 2 - Phân tích yêu cầu hệ thống",
+    "baitap3.docx": "Bài tập 3 - Thiết kế cơ sở dữ liệu",
+    "baitap4.docx": "Bài tập 4 - Báo cáo tổng kết"
+  }
+}
